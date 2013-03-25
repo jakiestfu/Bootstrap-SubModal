@@ -11,6 +11,10 @@
     -webkit-border-top-right-radius: 0;
     -moz-border-top-right-radius: 0;
     border-top-right-radius: 0;
+
+    -moz-box-shadow: inset 1px 6px 20px -12px;
+    -webkit-box-shadow: inset 1px 6px 20px -12px;
+    box-shadow: inset 1px 6px 20px -12px;
 }
 .sub-modal .modal-header{
     display: none;
