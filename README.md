@@ -45,10 +45,10 @@ This resembles Twitter Bootstrap's data API:
 ```javascript
 
 // Open
-$('#mySubModal').subModal('open');
+$('#mySubModal').subModal('show');
 
 // Close
-$('#mySubModal').subModal('close');
+$('#mySubModal').subModal('hide');
 
 // Toggle
 $('#mySubModal').subModal('toggle');
